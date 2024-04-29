@@ -8,10 +8,10 @@ My creation of an in-depth model, modelling projecting winrates using least squa
 
 *Creating an Original Facial Recognition Algorithm from Scratch using Single Value Decomposition (SVD)* 
 ![image](https://cdn-images-1.medium.com/max/1600/0*TNNcTjxL9xR0dZqH)  
-https://medium.com/p/9d6b715c3a41/edit
+https://medium.com/p/9d6b715c3a41/edit  
 Utilizing Single Value Decomposition and Linear Aglebra, I made my own facial accurate and efficient face recognition algorithm from scratch.
 
 *Faking my 2048 Skills Using Neuroevolution of Augmenting Topologies (NEAT) Deep Learning & OCR*
 ![image](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*39iNlcfx0wKmPJaQ.jpg)  
-https://medium.com/@edwarding04/faking-my-2048-skills-using-neuroevolution-of-augmenting-topologies-neat-deep-learning-ocr-ea06b021f6df
+https://medium.com/@edwarding04/faking-my-2048-skills-using-neuroevolution-of-augmenting-topologies-neat-deep-learning-ocr-ea06b021f6df  
 I used a neuroevolutionary deep learning algorithm to train a neural network to play 2048 for me.
