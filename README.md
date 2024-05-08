@@ -1,5 +1,6 @@
 # eding-data-articles-compilation
 Compilation of all of my articles showcasing my data analyses / data related projects  
+  
 *Creating an Original Facial Recognition Algorithm from Scratch using Single Value Decomposition (SVD)*  
 https://medium.com/p/9d6b715c3a41/edit  
 Utilizing Single Value Decomposition and Linear Aglebra, I made my own facial accurate and efficient face recognition algorithm from scratch.
